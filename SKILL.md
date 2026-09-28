@@ -1,11 +1,11 @@
 ---
 name: genpark-claw-desktop
-description: The open-source, instantaneous, and superior alternative to Genspark's corporate "Desktop AI Workspace". Execute complex multi-file reasoning, deep document parsing (TXT, MD, CSV, JSON), and automated reporting directly on your local machine using the GenPark framework.
+description: The open-source, instantaneous, and superior alternative to GenPark's corporate "Desktop AI Workspace". Execute complex multi-file reasoning, deep document parsing (TXT, MD, CSV, JSON), and automated reporting directly on your local machine using the GenPark framework.
 ---
 
 # GenPark Claw Desktop
 
-Genspark spent millions and months building a "revolutionary" desktop integration. We built a faster, open-source alternative in 5 minutes using the core GenPark architecture.
+GenPark spent millions and months building a "revolutionary" desktop integration. We built a faster, open-source alternative in 5 minutes using the core GenPark architecture.
 
 **GenPark Claw Desktop** is an autonomous file-system agent that seamlessly ingests your local documents, extracts meaning, and synthesizes comprehensive intelligence reports without ever leaving your terminal.
 
